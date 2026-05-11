@@ -2,7 +2,7 @@
 
 int main() {
     
-// Criação das variáveis.
+// Criação das variáveis. vc 
 
 int voto;
 
@@ -17,7 +17,7 @@ int candidato_eleito;
 
 // Mensagem, onde vai listar os candidatos, a numeração e o voto branco.
 
-printf("Eleiçao Peor es Nada 2026\n");
+printf("Eleiçao Peor es Nada 2024\n");
 printf("Digite seu voto conforme as opções\n");
 printf("Vender voto é crime, segundo o Art. 299 do Código Eleitoral (Lei nº 4.737/1965).\n");
 printf("1 - Candidato 1\n");
