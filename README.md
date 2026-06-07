@@ -194,4 +194,4 @@ Este projeto possui finalidade educacional e pode ser utilizado livremente para 
 
 # 👨‍💻 Autor
 
-Desenvolvido por Trislikas como projeto de aprendizado em linguagem C.
+Desenvolvido por Trislikas como projeto de aprendizado em linguagem C. ( primerio Projeto ;) ) 
